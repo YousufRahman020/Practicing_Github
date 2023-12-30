@@ -1,2 +1,2 @@
-# Practicing_Github
-This Repository is just for practicing git and github.
+# Practicing Github
+This Repository is just for practicing git and github. 
